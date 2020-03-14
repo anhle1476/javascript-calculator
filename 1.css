@@ -1,0 +1,16 @@
+
+button {
+  margin-bottom: 30px;
+}
+#display {
+  text-align: right;
+  height: 30px
+}
+
+#result {
+  text-align: right;
+}
+
+#title {
+  text-align: center;
+}
